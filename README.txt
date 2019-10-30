@@ -1,6 +1,10 @@
 CSC594 SPEAS Implementation
 Jilei Hao
 
+The emotion theory:
+
+https://docs.google.com/document/d/1pPALJ4msz0FHEQFcZU0IiZPIH-wZGrxtZGEG0_VSqAg/edit?usp=sharing
+
 Instruction to run the program:
 
 1. Download and install sbt from https://www.scala-sbt.org/
