@@ -1,5 +1,4 @@
-CSC594 SPEAS Implementation
-Jilei Hao
+Subject-Predicate Emotion Appraisal System
 
 The emotion theory:
 
